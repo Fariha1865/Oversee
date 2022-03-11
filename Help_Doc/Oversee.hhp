@@ -1,0 +1,13 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Oversee.chm
+Contents file=About.hhc
+Default topic=F:\oversee\What is Oversee .htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=About
+
+
+[INFOTYPES]
+
